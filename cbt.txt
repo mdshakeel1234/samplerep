@@ -1,0 +1,156 @@
+Q. No	Question	Answer
+1		
+			Correct
+			Wrong
+			Wrong
+			Wrong
+2		
+			Correct
+			Wrong
+			Wrong
+			Wrong
+3		
+			Wrong
+			Correct
+			Wrong
+			Wrong
+4		
+			Correct
+			Wrong
+			Wrong
+			Wrong
+5		
+			Wrong
+			Correct
+			Wrong
+			Wrong
+6		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+7		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+8		
+			Wrong
+			Correct
+			Wrong
+			Wrong
+9		
+			Correct
+			Wrong
+			Wrong
+			Wrong
+10		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+11		
+			Wrong
+			Correct
+			Wrong
+			Wrong
+12		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+13		
+			Wrong
+			Wrong
+			Wrong
+			Correct
+14		
+			Wrong
+			Wrong
+			Wrong
+			Correct
+15		
+			Correct
+			Wrong
+			Wrong
+			Wrong
+16		
+			Correct
+			Wrong
+			Wrong
+			Wrong
+17		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+18		
+			Wrong
+			Correct
+			Wrong
+			Wrong
+19		
+			Correct
+			Wrong
+			Wrong
+			Wrong
+20		
+			Wrong
+			Correct
+			Wrong
+			Wrong
+21		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+22		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+23		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+24		
+			Wrong
+			Correct
+			Wrong
+			Wrong
+25		
+			Correct
+			Wrong
+			Wrong
+			Wrong
+26		
+			Wrong
+			Correct
+			Wrong
+			Wrong
+27		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+28		
+			Wrong
+			Correct
+			Wrong
+			Wrong
+29		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+30		
+			Wrong
+			Wrong
+			Correct
+			Wrong
+31		
+			wrong
+			Correct
+			wrong
+			wrong
